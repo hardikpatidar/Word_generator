@@ -1,0 +1,89 @@
+.minibox{
+    background-color: aqua;
+    height: 80px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+    
+}
+.innerminibox{
+    font-size: xx-large;
+
+}
+.bigbox{
+    background-color:aqua;
+    display: flex;
+    
+    /* gap: 150px; */
+    
+    
+}
+.small1{
+    height: 500px;
+    width:500px;
+    background-color:aqua;
+    flex: 1.5;
+
+
+}
+.small2{
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    flex: 1.5;
+   
+}
+.small1mini{
+    height: 90px;
+    width: 500px;
+    background-color:aqua;
+    /* display: flex; */
+    
+    /* left: 0; */
+}
+.small2mini{
+    height: 90px;
+    width: 500px;
+    background-color: aqua;
+    /* right: 0; */
+}
+.alfa{
+    height: 45px;
+    width: 500px;
+    display: flex;
+    background-color: aqua;
+    font-size: xx-large;
+    /* align-items: center; */
+    justify-content: center;
+}
+#letter{
+    height: 20px;
+    width: 40px;
+    border-radius: 5px;
+}
+.alfa1{
+    height: 45px;
+    width: 500px;
+    display: flex;
+    background-color: aqua;
+    font-size: xx-large;
+    /* align-items: center; */
+    justify-content: center;
+    
+}
+#letter1{
+    height: 20px;
+    width: 40px;
+    border-radius: 5px;
+}
+
+#output{
+height: 400px;
+width: 500px;
+background-color: aqua(215, 225, 221);
+
+
+overflow: auto;
+padding: 5px 5px 5px 5px;
+}
